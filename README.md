@@ -10,4 +10,4 @@ Projeto dedicado a análise e classificação de Áudios de gato e cão.
     > $ docker run -p 9999:8888 ml/projects
 
 * Restart Conatiner:
-    > $ docker start -a [CONTAINER]
+    > $ docker start -ia [CONTAINER]
