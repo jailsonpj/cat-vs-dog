@@ -5,6 +5,7 @@ Projeto dedicado a análise e classificação de Áudios de gato e cão.
 * [Install Docker](https://docs.docker.com/get-docker/)
 * Clone Repository
 > $ git clone https://github.com/jailsonpj/cat-vs-dog.git
+
 > $ cd cat-vs-dog
 * Build Image:
     > $ docker build -t ml/projects .
